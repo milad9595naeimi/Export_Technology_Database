@@ -1,0 +1,27 @@
+{
+    "id": "D9EA6D43",
+    "path": "/cloud/project/Export_Technology_Database.R",
+    "project_path": "Export_Technology_Database.R",
+    "type": "r_source",
+    "hash": "2473620347",
+    "contents": "",
+    "dirty": false,
+    "created": 1718247539797.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718247745,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718247745328,
+    "read_only": false,
+    "read_only_alternatives": []
+}
